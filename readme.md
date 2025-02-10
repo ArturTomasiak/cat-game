@@ -4,6 +4,9 @@ A simple game centered around color detection, where the score is accumulated by
 
 No download instructions are needed for Windows 10/11, as the release `.exe` works out of the box.
 
+![catgame](https://github.com/user-attachments/assets/136a5528-c019-4471-8246-b351943d246a)
+> gif of the initial build of cat game
+
 > **Note**
 > Both the OpenCV build and the release were made for Windows. Linux instructions are provided at the bottom.
 
