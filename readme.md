@@ -4,7 +4,7 @@ A simple game centered around color detection, where the score is accumulated by
 
 For Windows 10/11 the release `.exe` works out of the box.
 
-<img src="https://github.com/user-attachments/assets/136a5528-c019-4471-8246-b351943d246a" style="max-width:200px; height:auto;"/>
+<img src="https://github.com/user-attachments/assets/136a5528-c019-4471-8246-b351943d246a"/>
 
 > gif of the initial build of cat game
 
