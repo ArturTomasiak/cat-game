@@ -1,5 +1,8 @@
 # Cat Game
 
+> [!NOTE]
+> Having this many files in the main directory is confusing and a mistake on my end; Open main.cpp for the game's source code.
+
 A simple game centered around color detection, where the score is accumulated by hitting a cat with green objects. Press `q` or `Q` to exit.
 
 For Windows 10/11 the release `.exe` works out of the box.
